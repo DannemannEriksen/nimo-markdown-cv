@@ -1,157 +1,122 @@
 ---
 layout: cv
-title: Wode "Nimo" Ni
+title: PHP后端开发工程师-余义钊
 email:
-  url: mailto:woden@cs.cmu.edu
-  text: woden@cs.cmu.edu
+  url: 18814110859@163.com
+  text: 18814110859@163.com
 homepage:
   url: http://cs.cmu.edu/~woden
   text: cs.cmu.edu/~woden
 ---
 
-# Wode **Ni**
+# **余义钊**
 
 <!--
 include contact information from the front matter
 Supported arguments:
     - homepage: url, text
-    - phone
-    - email
+    - phone：18814110859
+    - email：18814110859@163.com
 -->
 
 {% include cv-contact.html %}
 
-## Education
+## 教育背景
 
-### **Carnegie Mellon University** `2018.9 -`
+### **河源职业技术学院** `2012.9 - 2015.7`
 
-```
-Pittsburgh, PA
-```
+- 主修专业：计算机多媒体技术
+- 主修课程： C语言，python语言，Adobe Photoshop、3MAX等等。
 
-- Ph.D. in Software Engineering
-- Co-advised by [Ken Koedinger](http://pact.cs.cmu.edu/koedinger.html) and [Josh Sunshine](http://www.cs.cmu.edu/~jssunshi/)
+## 工作经历
 
-### **Columbia University** `2016.9 - 2018.5`
+### **牛富软件有限公司广州分公司** `2020.7 -`
 
-```
-New York, NY
-```
+_技术部 / 后端工程师_<br>
+**工作描述：**<br>
+1、负责内部OA系统的开发和维护（lumen+mysql+redis+MongoDB）；<br>
+2、负责公司内部聊天系统的开发和维护（nodeJs+redis+MongoDB）；<br>
+3、负责企业微信中间件的开发和维护（go+redis）；<br>
 
-- B.S. in Computer Science, _Magna Cum Laude_
-- Vision, Graphics track
+### **广州和众网络科技有限公司** `2018.5 - 2020.6`
 
-### **Dickinson College** `2013.9 - 2016.5`
+_技术部 / 后端工程师_<br>
+**工作描述：**<br>
+1、主要负责app上各类功能模块和营销活动的开发和维护；<br>
+2、参与平台中间件的开发和维护；<br>
+3、使用GRPC解决的各个中间件通讯问题；<br>
+4、使用Redis解决营销活动并发问题；<br>
+5、使用webSocket解决了App数据埋点问题；<br>
+6、日常服务器日记分析，supervisor和crontab任务的部署；<br>
+7、探讨主要的技术实现方案；<br>
+8、帮忙领导code review；<br>
+9、参与各类需求评审，给出自己的意见；<br>
 
-```
-Carlisle, PA
-```
+### **广州小妖传媒有限公司** `2017.10 - 2018.5`
 
-- B.S. in Computer Science, _Summa Cum Laude_
-- Computer Science Departmental Honors
+_技术部 / 后端工程师_<br>
+**工作描述：**<br>
+1、负责棋牌游戏数据后台的开发和维护；<br>
+2、负责nodeJs聊天系统的开发；<br>
+3、负责棋牌营销活动的开发；<br>
 
-## Publications
-
-### [**Penrose: From Mathematical Notation to Beautiful Diagrams**](http://penrose.ink/media/Penrose_SIGGRAPH2020.pdf)
-Katherine Ye, **Wode Ni**, Max Krieger, Dor Ma'ayan, Joshua Sunshine, Jonathan Aldrich, and Keenan Crane.<br> 
-_ACM Transactions on Graphics (SIGGRAPH'20)._<br>
-[[PDF](http://penrose.ink/media/Penrose_SIGGRAPH2020.pdf)]
-[[BibTeX]({{ page.homepage.url }}/assets/siggraph20-penrose.txt)]
-[[www](http://penrose.ink/siggraph20.html)]
-[[repo](https://github.com/penrose/penrose)]
-
-### [**How Domain Experts Create Conceptual Diagrams and Implications for Tool Design**]({{ page.homepage.url }}/assets/chi-20-natural-diagramming.pdf)
-
-Dor Ma'ayan\*, **Wode Ni\***, Katherine Ye, Chinmay Kulkarni, and Joshua Sunshine.<br>
-<i class="fas fa-award"></i> <strong>Best Paper Honourable Mention</strong><br>
-_In Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems (CHI'20)._<br>
-[[PDF]({{ page.homepage.url }}/assets/chi-20-natural-diagramming.pdf)]
-[[BibTeX]({{ page.homepage.url }}/assets/chi-20-natural-diagramming.txt)]
-
-### [**Defining Visual Narratives for Mathematics Declaratively**](http://plateau-workshop.org/assets/papers-2019/9.pdf)
-
-Max Krieger, **Wode Ni**, and Joshua Sunshine.<br>
-_Evaluation and Usability of Programming Languages and Tools (PLATEAU 2019), co-located with UIST._<br>
-[[PDF](http://plateau-workshop.org/assets/papers-2019/9.pdf)]
-[[slides]({ page.homepage.url }}/aassets/plateau-19-presentation.pdf)]
-
-### [**Designing Declarative Language Tutorials: a Guided and Individualized Approach**](http://plateau-workshop.org/assets/papers-2019/2.pdf)
-
-Anael Kuperwajs Cohen, **Wode Ni**, and Joshua Sunshine.<br>
-_Evaluation and Usability of Programming Languages and Tools (PLATEAU 2019), co-located with UIST._<br>
-[[PDF](http://plateau-workshop.org/assets/papers-2019/2.pdf)]
-[[slides]({{ page.homepage.url }}/assets/plateau-19-presentation.pdf)]
-
-### [**Substance and Style: domain-specific languages for mathematical diagrams**](https://2017.splashcon.org/event/dsldi-2017-substance-and-style-domain-specific-languages-for-mathematical-diagrams)
-
-**Wode Ni\***, Katherine Ye\*, Joshua Sunshine, Jonathan Aldrich, and Keenan Crane.<br> _Domain-Specific Language Design and Implementation (DSLDI 2017), co-located with SPLASH._ <br>
-[[PDF]({{ page.homepage.url }}/assets/dsldi.pdf)]
-[[slides]({{ page.homepage.url }}/assets/dsldi-presentation.pdf)]
-[[www](http://penrose.ink)]
-[[repo](https://github.com/penrose/penrose)]
-
----
-
-### [**Whiteboard Scanning Using Super-Resolution**](http://scholar.dickinson.edu/student_honors/221/)
-
-**Wode Ni**.<br> _Dickinson College Honors Theses. Paper 221._<br>
-[[PDF]({{ page.homepage.url }}/assets/superres.pdf)]
-
-## Experience
-
-### **Microsoft Research** `2020.5 -`
-
-_Research Intern_<br>
-
-### **Carnegie Mellon University, Research Experiences for Undergraduate** `2017.5 - 2017.8`
-
-_Research Assistant_<br>
-**Penrose** is a system that automatically visualizes mathematics using two domain-specific languages: **Substance** and **Style**. Co-advised by [Jonathan Aldrich](https://www.cs.cmu.edu/~./aldrich/), [Keenan Crane](https://www.cs.cmu.edu/~kmcrane/), [Joshua Sunshine](http://www.cs.cmu.edu/~jssunshi/), and [Katherine Ye](https://www.cs.cmu.edu/~kqy/), I designed and implemented the Style language, and extended the Substance language to support functions and logically quantified statements.
-
-### **Columbia University, Computer Graphics and User Interfaces Lab** `2017.1 - 2017.5`
-
-_Research Assistant_<br>
-Worked with prof. Steven Feiner, on **Cyber Affordance Visualization in Augumented Reality** project. Developed a Microsoft Hololens application that visualizes the Columbia campus in AR environment.
-
-### **AsiaInfo** `2015.6 - 2015.8`
-
-_Software Engineering Intern_<br>
-Worked on server-side web applications and server deployment tools.
-
-## Mentoring
-
-Max Krieger (CMU, independent research & [REUSE](https://www.cmu.edu/scs/isr/reuse/)) `CMU, 2018 - Now` <br>
-Courtney Miller (New College of Florida, [REUSE](https://www.cmu.edu/scs/isr/reuse/)) `CMU, 2019` <br>
-Anael Kuperwajs Cohen (Macalester College, [REUSE](https://www.cmu.edu/scs/isr/reuse/)) `CMU, 2019` <br>
-
-## Honors & Awards
-
-CHI'20 Best Paper Honourable Mention Award `CMU, 2020` <br>
-Phi Beta Kappa `Dickinson, 2018` <br>
-Excellence in Computer Science Award `Columbia, 2018` <br>
-Travel Award PL Mentoring Workshop (PLMW) `SPLASH, 2018` <br>
-Tau Beta Pi, Engineering Honor Society `Columbia, 2017` <br>
-Computer Science Departmental Honors `Dickinson, 2016` <br>
-Pi Mu Epsilon, Mathematics Honor Society `Dickinson, 2016` <br>
-Upsilon Pi Epsilon, Computer Science Honor Society `Dickinson, 2016` <br>
-Alpha Lambda Delta, First year Honor Society `Dickinson, 2013`<br>
-John Montgomery Scholarship `Dickinson, 2013` <br>
-
----
-
-## Teaching
-
-Teaching Assistant, **Programming Languages and Translators (COMS 4115)** `Columbia, 2017 - 2018` <br>
-Teaching Assistant, **Introduction to Java II (COMP 132)** `Dickinson, 2016` <br>
-Peer Tutor, **Data Structures and Problem Solving (COMP 232)** `Dickinson, 2016` <br>
-Computer Lab Consultant `Dickinson, 2014 - 2016` <br>
+### **广州微粤信息科技有限公司** `2016.10 - 2017.8`
+_技术部 / 后端工程师_<br>
+**工作描述：**<br>
+1、负责公司项目的开发维护，服务器的环境配置；<br>
+2、负责公司阿里云备案，域名申请，证书申请；<br>
 
 
-## Service
+## 项目经验
 
-Reviewer `CHI 2021`
-Research Experiences for Undergraduates in Software Engineering Admission Committee `CMU, 2019 - 2020`
+### **牛富内部OA系统** `2020.7 - 2021.1`
+
+_内部OA系统；_<br>
+**工作描述：**<br>
+1、负责内部OA系统（lumen+mysql+redis+MongoDB）；<br>
+2、负责内部聊天系统（nodeJs+redis+MongoDB）；<br>
+3、负责企业微信中间件（go+redis）；<br>
+**业绩描述：**<br>
+
+
+### **淘领地APP** `2019.5 - 2020.6`
+_覆盖了淘客优惠券，直播，商圈，直营，云仓等功能；融合的线下商圈，直播卖货，社交电商，粉丝，线上云仓等；_<br>
+**工作描述：**<br>
+1、参与了app上各类功能模块和营销活动的开发；<br>
+2、参与了App的中间件系统的开发；<br>
+3、参与了App开发规范的制定；<br>
+**业绩描述：**<br>
+1、能独立分析解决问题能力，能独立承担开发任务和有系统进度把控能力，能按时完成任务，对突发性出现的问题能够及时追踪、定位和解决；<br>
+
+### **淘领地APP直播业务** `2019.12 - 2020.4`
+_淘领地App直播模块；（hyperf+redis+mysql）_<br>
+1、负责直播聊天室Socket推送；<br>
+2、负责营销活动开发；<br>
+3、负责主播入驻的功能的开发；<br>
+**业绩描述：**<br>
+
+
+### **淘领地rpc中间件服务** `2019.12 - 2020.4`
+_淘领地app的rpc中间件服务；（laravel+MongoDB+redis+mysql）_<br>
+1、负责短信rpc服务开发和维护；<br>
+2、参与用户rpc服务端开发；<br>
+3、参与支付rpc服务端开发；<br>
+**业绩描述：**<br>
+
+
+## 自我评价
+
+4年以上PHP编程经验，热爱技术钻研，熟悉面向对象设计开发以及各种常用设计模式；<br>
+熟悉laravel、Yii、Swoole、Hyperf框架的开发；<br>
+熟悉Redis、Memcache、MongoDB等缓存中间件和NoSQL数据库；<br>
+具备良好的代码编程习惯及代码设计能力及较强的文档编写能力；<br>
+扎实的SQL知识，具备数据库应用系统规划及设计能力，熟悉MySQL索引优化、查询优化和存储优化；<br>
+熟悉 Git、通信协议 TCP/HTTP、PSR-4 规范以及 RESTful  APIs接口开发相关经验；<br>
+能独立完成产品需求，对突发性出现的问题能够及时追踪、定位和解决；<br>
+独立思考，有自己的见解，对技术有强烈的好奇心及求知欲，喜欢困难和挑战，有强烈的责任心和团队合作精神和积极主动的沟通意识，有较强的抗压能力及独立解决技术问题的能力；<br>
+具备良好的分析与解决能力，能独立承担项目开发任务，同时对研发进度有把控能力；<br>
+
+## 个人论文
 
 <!-- ### Footer
-
-Last updated: May 2013 -->
+Last updated: 2021.3.16 -->
